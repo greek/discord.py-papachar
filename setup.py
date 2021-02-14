@@ -42,7 +42,7 @@ extras_require = {
     ]
 }
 
-setup(name='discord.py',
+setup(name='discord.py-papachar',
       author='Rapptz, fork by greek',
       url='https://github.com/greek/discord.py-papachar',
       project_urls={
