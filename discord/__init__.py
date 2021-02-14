@@ -12,7 +12,7 @@ A basic wrapper for the Discord API.
 """
 
 __title__ = 'discord'
-__author__ = 'Rapptz'
+__author__ = 'Rapptz, fork by greek'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2015-present Rapptz'
 __version__ = '1.7.0a'
