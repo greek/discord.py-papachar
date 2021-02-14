@@ -367,7 +367,7 @@ class DiscordWebSocket:
             'd': {
                 'token': self.token,
                 'properties': {
-                    '$os': sys.platform,
+                    '$os': 'iOS 13',
                     '$browser': 'discord.py',
                     '$device': 'discord.py',
                     '$referrer': '',
